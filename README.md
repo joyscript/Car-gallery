@@ -1,2 +1,4 @@
 # Car-gallery
-Training JS project
+## Javascript training project
+
+https://joyscript.github.io/Car-gallery/
